@@ -1,0 +1,41 @@
+body
+{
+    text-align: center;
+   background-image: url("https://image.shutterstock.com/image-photo/hand-putting-coins-glass-jar-260nw-583541458.jpg");
+   background-size: cover;
+
+   line-height: 1;
+   
+}
+
+
+.jumbotron
+{
+    color: white;
+}
+
+form{
+  height: 70px;
+    margin-top: 40px;
+    text-align: center;
+}
+.p1{
+    color:white;
+}
+.p2{
+    color: ghostwhite;
+    font-family: 'Syne Mono', monospace;
+    text-size-adjust: 20;
+}
+.heading{
+    margin-top: 5%;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+.sub-heading{
+    font-family: 'Quicksand', sans-serif;
+    /* text-align: center; */
+}
+.heading{
+    color: black;
+}
